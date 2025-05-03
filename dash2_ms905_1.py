@@ -762,7 +762,7 @@ with tab8:
                 xaxis_title='PC1',
                 yaxis_title='PC2'
             )
-
+	# adding scatter
             fig.add_trace(go.Scatter(
                 x=df_pca['PC1'],
                 y=df_pca['PC2'],

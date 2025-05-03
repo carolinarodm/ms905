@@ -2,6 +2,7 @@ plotly
 numpy
 pandas
 matplotlib
-seaborn streamlit
+seaborn 
+streamlit
 scikit-learn
 random

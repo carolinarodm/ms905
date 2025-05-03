@@ -2,8 +2,8 @@ import plotly.graph_objects as go
 import plotly.express as px
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import matplotlib.pyplot as plt
+#import seaborn as sns
 import streamlit as st
 from sklearn import cluster
 from sklearn.decomposition import PCA
@@ -11,7 +11,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.mixture import GaussianMixture
 from sklearn.feature_selection import chi2
-import random
+#import random
 st.markdown("""
 <style>
 .tit {

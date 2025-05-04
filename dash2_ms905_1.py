@@ -25,7 +25,7 @@ st.markdown("""
 # ========================
 # 1. Carregamento de Dados
 # ========================
-file_path = r"C:\Users\55859\PycharmProjects\projeto2ms905\heart.csv"
+file_path = r".\heart.csv"
 df = pd.read_csv(file_path)
 
 # Modificações no df
